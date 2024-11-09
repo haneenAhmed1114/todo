@@ -1,0 +1,9 @@
+{
+  "lang":"language",
+  "mode":"Mode",
+  "delete":"delete",
+  "edit":"edit",
+  "addtask":"Add a new task",
+  "entertask": "enter your task",
+  "selectdate": "select date"
+}
